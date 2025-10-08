@@ -1,6 +1,7 @@
 Python
 
-TensorFlow / Keras
+TensorFlow 
+Keras
 
 NumPy
 
@@ -8,4 +9,4 @@ Matplotlib
 
 scikit-learn
 
-Google Colab
+GoogleColab
